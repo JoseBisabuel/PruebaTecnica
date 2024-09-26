@@ -1,0 +1,31 @@
+
+{
+  "Inicio": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "/html[1]/body[1]/div[2]/header[1]/div[2]/div[1]/div[1]/div[2]/nav[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  "ModuloAmor": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/section[@id='main-container']/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/a[1]"
+  },
+  "AbrirElemento1": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/section[@id='main-container']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/figure[1]/a[1]/img[1]"
+  },
+  "AñadirAlCarritoElemento": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//button[contains(text(),'Añadir al carrito')]"
+  },
+  "SeguirComprando": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//a[contains(text(),'Seguir comprando')]"
+  },
+  "AbrirElemento2": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/figure[1]/a[1]/img[1]"
+  },
+  "BotonActualizacion": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "/html[1]/body[1]/div[2]/div[6]/section[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]"
+  }
+}

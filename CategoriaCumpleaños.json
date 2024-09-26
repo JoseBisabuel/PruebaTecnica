@@ -1,0 +1,27 @@
+
+{
+  "Inicio": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "/html[1]/body[1]/div[2]/header[1]/div[2]/div[1]/div[1]/div[2]/nav[1]/div[1]/ul[1]/li[1]/a[1]"
+  },
+  "ModuloCumpleaños": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/section[@id='main-container']/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]"
+  },
+  "Filtrar": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/section[@id='main-container']/div[1]/div[1]/div[1]/div[1]/div[1]/form[2]/select[1]"
+  },
+  "MDF00023": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//body/div[@id='wrapper-container']/div[@id='tbay-main-content']/section[@id='main-container']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/figure[1]/a[1]/img[1]"
+  },
+  "AñadirAlCarritoElemento": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//button[contains(text(),'Añadir al carrito')]"
+  },
+  "EliminarProductoMDF00023": {
+    "GetFieldBy": "XPath",
+    "ValueToFind": "//tbody/tr[1]/td[6]/a[1]/i[1]"
+  }
+}
